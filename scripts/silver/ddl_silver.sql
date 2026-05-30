@@ -62,9 +62,9 @@ CREATE TABLE silver.crm_sales_details (
 );
 
 
--- =============================
+--==============================
 -- CREATE ERP DATA SOURCE TABLES
--- =============================
+--==============================
 
 IF OBJECT_ID('silver.erp_cust_az12', 'U') IS NOT NULL
 	DROP TABLE silver.erp_cust_az12;
