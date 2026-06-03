@@ -5,8 +5,8 @@ BULK INSERT DATA FROM BRONZE TO SILVER LAYER
 ============================================
 
 Script Purpose:
-	Truncates all tables in silver layer before loading the data.
-	Selects and transforms data from bronze tables and inserts into silver tables.
+	Stored procedure to perform ETL process to data load the Silver schema tables from the Bronze schema.
+	Truncates Silver tables then inserts transformed and cleaned data from Bronze into Silver tables.
 
 */
 
