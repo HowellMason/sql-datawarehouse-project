@@ -1,0 +1,137 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="5Rsn4wDmQ6mq4UXFR5BO">
+    <mxGraphModel dx="978" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9S6omkizjE4B5OPnG60_-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#D7817E);" value="" vertex="1">
+          <mxGeometry height="430" width="240" x="520" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#56517E,#00FFFF);" value="" vertex="1">
+          <mxGeometry height="390" width="470" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="crm_cust_info" vertex="1">
+          <mxGeometry height="90" width="162.5" x="322.5" y="400" as="geometry">
+            <mxRectangle height="30" width="130" x="40" y="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-10" parent="9S6omkizjE4B5OPnG60_-9" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="&lt;font&gt;cst_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="162.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-30" parent="9S6omkizjE4B5OPnG60_-9" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="cst_key" vertex="1">
+          <mxGeometry height="30" width="162.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-15" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;fillColor=none;strokeColor=none;swimlaneLine=0;" value="Customer Information" vertex="1">
+          <mxGeometry height="30" width="150" x="328.75" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="crm_prd_info" vertex="1">
+          <mxGeometry height="60" width="162.5" x="317.5" y="250" as="geometry">
+            <mxRectangle height="30" width="130" x="40" y="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-17" parent="9S6omkizjE4B5OPnG60_-16" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="&lt;font face=&quot;Lucida Console&quot;&gt;prd_key&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="162.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-18" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;fillColor=none;strokeColor=none;swimlaneLine=0;" value="Current &amp;amp; History Product Information" vertex="1">
+          <mxGeometry height="30" width="195" x="301.25" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="crm_sales_details" vertex="1">
+          <mxGeometry height="90" width="172.5" x="57.5" y="310" as="geometry">
+            <mxRectangle height="30" width="130" x="57.5" y="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-20" parent="9S6omkizjE4B5OPnG60_-19" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="&lt;font face=&quot;Lucida Console&quot;&gt;prd_key&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="172.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-22" parent="9S6omkizjE4B5OPnG60_-19" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=light-dark(#56517E,#00FFFF);swimlaneLine=0;" value="&lt;font face=&quot;Lucida Console&quot;&gt;cst_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="172.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-21" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;fillColor=none;strokeColor=none;swimlaneLine=0;" value="Transactional Records about Sales &amp;amp; Orders" vertex="1">
+          <mxGeometry height="30" width="155" x="66.25" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-25" edge="1" parent="1" source="9S6omkizjE4B5OPnG60_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;fillColor=#d0cee2;strokeColor=light-dark(#56517E,#FFFFFF);swimlaneLine=0;" target="9S6omkizjE4B5OPnG60_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-26" edge="1" parent="1" source="9S6omkizjE4B5OPnG60_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;fillColor=#d0cee2;strokeColor=light-dark(#56517E,#FFFFFF);swimlaneLine=0;" target="9S6omkizjE4B5OPnG60_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-27" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=#b85450;gradientColor=none;" value="erp_cust_az12" vertex="1">
+          <mxGeometry height="60" width="162.5" x="559.99" y="370" as="geometry">
+            <mxRectangle height="30" width="130" x="40" y="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-28" parent="9S6omkizjE4B5OPnG60_-27" style="text;strokeColor=#b85450;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;labelBackgroundColor=none;gradientColor=none;" value="&lt;font face=&quot;Lucida Console&quot;&gt;cid&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="162.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;gradientColor=none;" value="Extra Customer Information (Birthdate)" vertex="1">
+          <mxGeometry height="30" width="183.75" x="548.12" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-31" edge="1" parent="1" source="9S6omkizjE4B5OPnG60_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);" target="9S6omkizjE4B5OPnG60_-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="415" />
+              <mxPoint x="530" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-32" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=#b85450;gradientColor=none;" value="erp_loc_a101" vertex="1">
+          <mxGeometry height="60" width="162.5" x="559.99" y="490" as="geometry">
+            <mxRectangle height="30" width="130" x="40" y="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-33" parent="9S6omkizjE4B5OPnG60_-32" style="text;strokeColor=#b85450;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;labelBackgroundColor=none;gradientColor=none;" value="&lt;font face=&quot;Lucida Console&quot;&gt;cid&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="162.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;gradientColor=none;" value="Location of Customers (Country)" vertex="1">
+          <mxGeometry height="30" width="183.75" x="549.37" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-36" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Lucida Console;rounded=0;labelBackgroundColor=none;fillColor=none;strokeColor=#b85450;gradientColor=none;" value="erp_px_cat_g1v2" vertex="1">
+          <mxGeometry height="60" width="162.5" x="559.99" y="250" as="geometry">
+            <mxRectangle height="30" width="130" x="40" y="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-37" parent="9S6omkizjE4B5OPnG60_-36" style="text;strokeColor=#b85450;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;labelBackgroundColor=none;gradientColor=none;" value="&lt;font face=&quot;Lucida Console&quot;&gt;id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="162.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;gradientColor=none;" value="Product Categories" vertex="1">
+          <mxGeometry height="30" width="183.75" x="549.37" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-41" edge="1" parent="1" source="9S6omkizjE4B5OPnG60_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);" target="9S6omkizjE4B5OPnG60_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#56517E,#00FFFF);fillColor=default;fontSize=18;" value="CRM" vertex="1">
+          <mxGeometry height="60" width="148.75" x="200.63" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFC16D,#D7817E);fillColor=default;fontSize=18;" value="ERP" vertex="1">
+          <mxGeometry height="60" width="148.75" x="560.63" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9S6omkizjE4B5OPnG60_-47" edge="1" parent="1" source="9S6omkizjE4B5OPnG60_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="9S6omkizjE4B5OPnG60_-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="535" />
+              <mxPoint x="530" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVIck02GaB2QZtzihjJA-1" parent="1" style="text;html=1;strokeColor=light-dark(#FFB366,#00CC00);fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;fontStyle=1" value="PRODUCT" vertex="1">
+          <mxGeometry height="20" width="162.5" x="317.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIck02GaB2QZtzihjJA-2" parent="1" style="text;html=1;strokeColor=light-dark(#FFB366,#00CC00);fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;fontStyle=1" value="PRODUCT" vertex="1">
+          <mxGeometry height="20" width="162.5" x="559.99" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIck02GaB2QZtzihjJA-3" parent="1" style="text;html=1;strokeColor=light-dark(#FFB366,#FFFF66);fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;fontStyle=1" value="CUSTOMER" vertex="1">
+          <mxGeometry height="20" width="162.5" x="322.5" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIck02GaB2QZtzihjJA-4" parent="1" style="text;html=1;strokeColor=light-dark(#FFB366,#FFFF66);fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;fontStyle=1" value="CUSTOMER" vertex="1">
+          <mxGeometry height="20" width="162.5" x="559.99" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIck02GaB2QZtzihjJA-5" parent="1" style="text;html=1;strokeColor=light-dark(#FFB366,#FFFF66);fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;fontStyle=1" value="CUSTOMER" vertex="1">
+          <mxGeometry height="20" width="162.5" x="559.99" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIck02GaB2QZtzihjJA-6" parent="1" style="text;html=1;strokeColor=light-dark(#FFB366,#FF66FF);fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;fontStyle=1" value="SALES" vertex="1">
+          <mxGeometry height="20" width="175" x="56.25" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
